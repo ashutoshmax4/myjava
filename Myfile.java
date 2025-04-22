@@ -1,5 +1,5 @@
-class myfile
-public class Main {
+class Myfile 
+{
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
